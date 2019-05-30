@@ -42,7 +42,7 @@ def while_iterator(number_of_times)
   
 end
 
-while_iterator(3)
+# while_iterator(3)
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
@@ -50,6 +50,8 @@ def until_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
 
 end
+
+until_iterator(3)
 
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
