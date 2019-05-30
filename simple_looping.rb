@@ -50,7 +50,7 @@ def until_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   iteration = 0
   until iteration == number_of_times
-    puts pharse
+    puts phrase
     iteration += 1
   end
 end
