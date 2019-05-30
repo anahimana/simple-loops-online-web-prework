@@ -37,6 +37,7 @@ def while_iterator(number_of_times)
   iteration = 0
   while iteration < number_of_times
     puts phrase
+    iteration += 1
   end
   
 end
